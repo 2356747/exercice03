@@ -118,7 +118,7 @@ header {
 
 .bouton2 {
     display: flex;
-    lalala
+    justify-content: center;
     
     background-image: 
     url(../images/nageur.svg), url(../images/ombrelle.svg),linear-gradient(#a7cedd, #265488);
@@ -142,7 +142,7 @@ telephone
             https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Backgrounds_and_Borders/Utiliser_plusieurs_arri%C3%A8re-plans
     */
 
-
+user-select: ;
 }
 
 .bouton2 span {
