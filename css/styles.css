@@ -58,7 +58,7 @@ header {
     
 
     /* Arrondir les coins des boutons à 20px */
-   
+    border-radius: 20px;
    
     box-shadow: 5px 10px 3px rgba(0,0,0,0.2);
     /*
@@ -118,7 +118,7 @@ header {
 
 .bouton2 {
     display: flex;
-    justify-content: center;
+    lalala
     
     background-image: 
     url(../images/nageur.svg), url(../images/ombrelle.svg),linear-gradient(#a7cedd, #265488);
